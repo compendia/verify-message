@@ -1,0 +1,15 @@
+{
+  "name": "@compendia/verify-message",
+  "version": "0.0.2",
+  "description": "Verify messages signed by a Compendia private key.",
+  "author": "Dean van Dugteren <dean@nos.io>",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@arkecosystem/crypto": "^2.6.52"
+  }
+}
